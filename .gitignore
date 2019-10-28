@@ -155,9 +155,8 @@ fabric.properties
 
 !/gradle/wrapper/gradle-wrapper.jar
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/macos,androidstudio
 #
 #
 
-
-.idea/
